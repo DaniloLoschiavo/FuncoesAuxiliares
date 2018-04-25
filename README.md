@@ -1,0 +1,2 @@
+# FuncoesAuxiliares
+Funções Auxiliares
